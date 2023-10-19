@@ -1,0 +1,1 @@
+CONNECTION_PATH = '../../resources/config/connections.json'

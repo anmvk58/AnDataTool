@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eficaz",
+    "host": "10.37.0.116",
+    "dbname": "efzdev",
+    "user": "T24DSA_OWNER",
+    "password": "",
+    "port": "1521",
+    "engine": "ORACLE"
+  },
+  {
+    "name": "Dih_owner",
+    "host": "10.37.0.116",
+    "dbname": "dihdev",
+    "user": "T24DSA_OWNER",
+    "password": "",
+    "port": "1521",
+    "engine": "ORACLE"
+  }
+]
